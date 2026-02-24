@@ -2,7 +2,9 @@
   "geode": "5.0.1",
   "gd": {
     "android": "2.2081", 
-    "win": "2.2081"
+    "win": "2.2081",
+    "mac": "2.2081",
+    "ios": "2.2081"
   },
   "version": "v1.4.6",
   "id": "nytelyte.wave_trail_drag_fix",
